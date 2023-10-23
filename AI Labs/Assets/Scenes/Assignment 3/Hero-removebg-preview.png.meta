@@ -1,0 +1,1993 @@
+fileFormatVersion: 2
+guid: 97827b6c1809547439a2a8e2f0d9b248
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hero-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 250
+        width: 81
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e73f1ec26d41f15499db91a1c945e742
+      internalID: 647673161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 381
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bedd61e0e1740a46855557dea6398aa
+      internalID: 1985901277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 376
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a6c4ebad3d2d3944b0ecca7e6aa9391
+      internalID: 227616032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 355
+        width: 18
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 289674f8689ad514082125bbc9a487da
+      internalID: -399848608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 355
+        width: 20
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2437627e0d6e9541b66cba663618992
+      internalID: -1820904119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 355
+        width: 21
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4987b21e98106049bed6ad260ee1821
+      internalID: -793297070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 355
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 664ff456af2963c4bbc2d999e2b25137
+      internalID: 1564328925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 355
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e967d26c09f9a5c46b17d33599252b2f
+      internalID: -1530290799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 355
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba2805d7f646bd43af74e5bf56316fe
+      internalID: 2076510841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 368
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c450fe67760dcff499afe94bb8286307
+      internalID: 1929268645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 361
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eccdeac6bd54984b921c017e15eaf63
+      internalID: -523306209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 295
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb661bf3d70b81d4ebe04e4cf57178a5
+      internalID: -1232051977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 295
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d02ca6eaba654684091b5cb24eded352
+      internalID: -1621249434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 295
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 345b6e5ab9b90494f8a3571d53a0d7d6
+      internalID: 460582226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 295
+        width: 18
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 778aa6751f0caed43b15d251528a3283
+      internalID: -1513952216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 295
+        width: 19
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 573f99f465636ae419627db1108a8f1a
+      internalID: 426769123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 295
+        width: 19
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd02b19e1862c4c4f8105c45e988c972
+      internalID: 1984118399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 296
+        width: 17
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae8a38c1cf6c3d468dacdbd861e3504
+      internalID: -2041058932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 295
+        width: 18
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfc3bc9cfbe54a6458ad5c625f389d97
+      internalID: -1827894689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 205
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f762ed02dd348a44a1ee8456fc48e44
+      internalID: -1717544555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 247
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3817f71cb60e65942848bdf507fa2a0f
+      internalID: -1055139402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 247
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eac3b9ec0b0293847beccebb812135ee
+      internalID: -126303139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 247
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 863c7f1c1c36969449954c66fa279127
+      internalID: -684958654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 247
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e16ae4d869a08974699a7c4632588489
+      internalID: -960169299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 249
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 163c029039c9f7047bc7f7d321fd6705
+      internalID: 766746767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 253
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5cc1cf29de4f754b918769e968bf0d8
+      internalID: -809539455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 249
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc87cf8869d9f2e41a09777d893522df
+      internalID: -1158568756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 249
+        width: 18
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98947dd509593364495fc3fea08c19ef
+      internalID: -222084421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 249
+        width: 19
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 107c02bf1a875284ab82917992f5763a
+      internalID: -131555097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 197
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40cfda91eb998ce4c9160c510b3bce1a
+      internalID: -128525642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 186
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc30b67e07fdf341ad4ccaa275e67f6
+      internalID: -276725017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 186
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c082af48b2aa045b77d5e17b4cb77e
+      internalID: -523974843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero-removebg-preview_32
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 186
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe1bf476fefbf8b4b8c50171b93657ca
+      internalID: -2053412752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero-removebg-preview_33
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 186
+        width: 19
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c55760ae533a3c4c80fcae1ca7d1573
+      internalID: -728331526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero-removebg-preview_34
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 188
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e29227e1352cdec438673ef4ec33d4fb
+      internalID: -385902956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero-removebg-preview_35
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 188
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c83b87e937411741b666d737ef0b9ca
+      internalID: -1458544842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero-removebg-preview_36
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 188
+        width: 39
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa92d84567d01b84686a49d215e62c54
+      internalID: -947657973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero-removebg-preview_37
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 186
+        width: 19
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba6ba785535932c49b5c4280efb7b84b
+      internalID: 1746103441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero-removebg-preview_38
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 114
+        width: 65
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb7d1da908e331a4383d968b83efb0a6
+      internalID: 757422216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero-removebg-preview_39
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 113
+        width: 64
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b820e5f1807ab74c927d0852adb3f6f
+      internalID: -1785399339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero-removebg-preview_40
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 172
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8c4242b5c680c34a9f01316d1c0b29a
+      internalID: 506880144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero-removebg-preview_41
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 136
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c87b91fc789ed4ea1d2375d29ce63d
+      internalID: 1149563594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero-removebg-preview_42
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 133
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3e35713d087ac34b9b778be123f299e
+      internalID: -449929028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero-removebg-preview_43
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 141
+        width: 10
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6282aeb77656714e81324cdb044a925
+      internalID: 214127797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero-removebg-preview_44
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 127
+        width: 19
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4369340c5f122e048bb27031618e27dc
+      internalID: -868188041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero-removebg-preview_45
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 127
+        width: 19
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fae91429d6d208347876ab4885626851
+      internalID: -944280667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero-removebg-preview_46
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 127
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 866f9b67220cae6499015975a40b0509
+      internalID: 1315172469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero-removebg-preview_47
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 127
+        width: 18
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7090451aeb226e47aea5f9c6925156c
+      internalID: -468590234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero-removebg-preview_48
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 128
+        width: 19
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d49cb20ef5665f41ac5af120f4636d4
+      internalID: -879330629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero-removebg-preview_49
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 129
+        width: 18
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe6ebcd7dba7c654a9b7a46208bb083a
+      internalID: 2092208620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero-removebg-preview_50
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 127
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8be3e793f5c5ddd43a405f439c754fd6
+      internalID: 2084972753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero-removebg-preview_51
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 113
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dc226016d316144f8c3a24b363cb6a9
+      internalID: 920980930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero-removebg-preview_52
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 129
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 467c519849bf2844fb638e75b93b6095
+      internalID: 712578344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero-removebg-preview_53
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 113
+        width: 27
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e2554f02368b3948b2fb8f7723fe36e
+      internalID: -1171565235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero-removebg-preview_54
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 83
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a775eea60b922964db5b104e544b1f7c
+      internalID: 1055553342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero-removebg-preview_55
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 85
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea77ae2625df9c941a6ca3608ab3fe59
+      internalID: 932017209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero-removebg-preview_56
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 80
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de9b842f404fb7f4884632be4a189643
+      internalID: 869841033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero-removebg-preview_57
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 77
+        width: 62
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03ddffb086fdbea43beb450141a0ede4
+      internalID: 1418686619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero-removebg-preview_58
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 36
+        width: 65
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf0da325d973da498882f5f5a622be1
+      internalID: 1949891077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero-removebg-preview_59
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 100
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b8ce104a94fc824cb836b348296500f
+      internalID: 1813368121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero-removebg-preview_60
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 86
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 929e29e1a140f2d4eb75e46a7d43d11a
+      internalID: 422233870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero-removebg-preview_61
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 95
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 475ac5ad1986c804b8126ac869b729c7
+      internalID: -107685852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero-removebg-preview_62
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 96
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b25b2efd00d109b4ca445d99ff72bfbb
+      internalID: 1097304572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero-removebg-preview_63
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 76
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d186ab0300a848439c83b2407b9885f
+      internalID: 1405599215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero-removebg-preview_64
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 71
+        width: 16
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1875088e6c52f6344a8f51e7e246924a
+      internalID: 472850881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero-removebg-preview_65
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 61
+        width: 18
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8c5311a250d40c4283edd169ad040f7
+      internalID: 1715109078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero-removebg-preview_66
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 65
+        width: 18
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f2a0a14c8904d4a9eddd04d7b52768
+      internalID: 503061193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero-removebg-preview_67
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 63
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b5d2d7bf297f84b946e4e7c21a93ef
+      internalID: 1542851896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero-removebg-preview_68
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 43
+        width: 20
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bb737ddc6ef87d4f95d5dbb5b0dd824
+      internalID: -913847096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero-removebg-preview_69
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 52
+        width: 6
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 856a50d20987aa74881f93df116896d4
+      internalID: 142235985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero-removebg-preview_70
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 62
+        width: 19
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b98e16a2f872a234895ae6ef7af04ff0
+      internalID: -921324593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero-removebg-preview_71
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 61
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5c2450e5378da9488eca17e4c802a8e
+      internalID: -307197248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero-removebg-preview_72
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 61
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3729bac2a0e16804d87aaf3201d0106b
+      internalID: 669994292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero-removebg-preview_73
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 62
+        width: 19
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e86d7077ae6c38408bc783f258e4627
+      internalID: -437046994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero-removebg-preview_74
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 63
+        width: 18
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0058066a6d5ebf8438e40ecefa6b802b
+      internalID: 1287396246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero-removebg-preview_75
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 43
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7f2574f0eca2e948bbf6060766da19f
+      internalID: 379753043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero-removebg-preview_76
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 13
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1925e4ea3ba70eb48a9e175ac6b66d12
+      internalID: -1770480566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero-removebg-preview_77
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 14
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51a311fb06d12004cbf47d260129913e
+      internalID: -1810063715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero-removebg-preview_78
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 14
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 959f2b50f8a07fd4682e7ead28072510
+      internalID: 2108615990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero-removebg-preview_79
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 12
+        width: 19
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a44b829f4a4021f4c905fecbc866492e
+      internalID: -1710953850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero-removebg-preview_80
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 12
+        width: 21
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0563c95545f06049a6231af89a588a9
+      internalID: 1367666851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero-removebg-preview_81
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 14
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cecb12f50976e74292f001d6a4da734
+      internalID: -1783934628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero-removebg-preview_82
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 14
+        width: 19
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5049e70894685d94cb6e5bd02bb3a7b6
+      internalID: -303415050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero-removebg-preview_83
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 14
+        width: 19
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb4ff22cd46bfb4ca2fa3458cf426a7
+      internalID: 445838030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero-removebg-preview_84
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 17
+        width: 27
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 586a056e65f564f409b81feddbb5fc2d
+      internalID: 1050727362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Hero-removebg-preview_79: -1710953850
+      Hero-removebg-preview_18: -1827894689
+      Hero-removebg-preview_63: 1405599215
+      Hero-removebg-preview_22: -684958654
+      Hero-removebg-preview_30: -276725017
+      Hero-removebg-preview_64: 472850881
+      Hero-removebg-preview_76: -1770480566
+      Hero-removebg-preview_47: -468590234
+      Hero-removebg-preview_32: -2053412752
+      Hero-removebg-preview_11: -1232051977
+      Hero-removebg-preview_24: 766746767
+      Hero-removebg-preview_67: 1542851896
+      Hero-removebg-preview_0: 647673161
+      Hero-removebg-preview_23: -960169299
+      Hero-removebg-preview_84: 1050727362
+      Hero-removebg-preview_38: 757422216
+      Hero-removebg-preview_53: -1171565235
+      Hero-removebg-preview_73: -437046994
+      Hero-removebg-preview_60: 422233870
+      Hero-removebg-preview_9: 1929268645
+      Hero-removebg-preview_7: -1530290799
+      Hero-removebg-preview_13: 460582226
+      Hero-removebg-preview_57: 1418686619
+      Hero-removebg-preview_34: -385902956
+      Hero-removebg-preview_62: 1097304572
+      Hero-removebg-preview_61: -107685852
+      Hero-removebg-preview_65: 1715109078
+      Hero-removebg-preview_25: -809539455
+      Hero-removebg-preview_42: -449929028
+      Hero-removebg-preview_80: 1367666851
+      Hero-removebg-preview_45: -944280667
+      Hero-removebg-preview_29: -128525642
+      Hero-removebg-preview_59: 1813368121
+      Hero-removebg-preview_69: 142235985
+      Hero-removebg-preview_46: 1315172469
+      Hero-removebg-preview_66: 503061193
+      Hero-removebg-preview_4: -1820904119
+      Hero-removebg-preview_21: -126303139
+      Hero-removebg-preview_39: -1785399339
+      Hero-removebg-preview_5: -793297070
+      Hero-removebg-preview_15: 426769123
+      Hero-removebg-preview_58: 1949891077
+      Hero-removebg-preview_44: -868188041
+      Hero-removebg-preview_54: 1055553342
+      Hero-removebg-preview_48: -879330629
+      Hero-removebg-preview_17: -2041058932
+      Hero-removebg-preview_26: -1158568756
+      Hero-removebg-preview_50: 2084972753
+      Hero-removebg-preview_72: 669994292
+      Hero-removebg-preview_56: 869841033
+      Hero-removebg-preview_70: -921324593
+      Hero-removebg-preview_75: 379753043
+      Hero-removebg-preview_31: -523974843
+      Hero-removebg-preview_78: 2108615990
+      Hero-removebg-preview_49: 2092208620
+      Hero-removebg-preview_8: 2076510841
+      Hero-removebg-preview_68: -913847096
+      Hero-removebg-preview_28: -131555097
+      Hero-removebg-preview_1: 1985901277
+      Hero-removebg-preview_82: -303415050
+      Hero-removebg-preview_3: -399848608
+      Hero-removebg-preview_6: 1564328925
+      Hero-removebg-preview_81: -1783934628
+      Hero-removebg-preview_20: -1055139402
+      Hero-removebg-preview_35: -1458544842
+      Hero-removebg-preview_37: 1746103441
+      Hero-removebg-preview_55: 932017209
+      Hero-removebg-preview_51: 920980930
+      Hero-removebg-preview_33: -728331526
+      Hero-removebg-preview_83: 445838030
+      Hero-removebg-preview_10: -523306209
+      Hero-removebg-preview_12: -1621249434
+      Hero-removebg-preview_52: 712578344
+      Hero-removebg-preview_19: -1717544555
+      Hero-removebg-preview_14: -1513952216
+      Hero-removebg-preview_27: -222084421
+      Hero-removebg-preview_43: 214127797
+      Hero-removebg-preview_41: 1149563594
+      Hero-removebg-preview_71: -307197248
+      Hero-removebg-preview_77: -1810063715
+      Hero-removebg-preview_74: 1287396246
+      Hero-removebg-preview_16: 1984118399
+      Hero-removebg-preview_2: 227616032
+      Hero-removebg-preview_40: 506880144
+      Hero-removebg-preview_36: -947657973
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
